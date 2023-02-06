@@ -4,7 +4,7 @@
 
 Submitted by: **Maggie Rae LaFratta**
 
-MyStory s an app that introduces my cat, Parsley Garlic-Powder LaFratta.
+MyStory is an app that introduces my cat, Parsley Garlic-Powder LaFratta.
 
 Time spent: **8** hours spent in total
 
